@@ -1,0 +1,475 @@
+# depslib dependency file v1.0
+1350685010 source:c:\users\cschatz\desktop\hoggle-codeblocks\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1476230282 c:\users\cschatz\desktop\hoggle-codeblocks\hgraphics.h
+	<string>
+
+1350757839 c:\users\cschatz\desktop\hoggle-codeblocks\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1346350165 c:\users\cschatz\desktop\hoggle-codeblocks\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1347928011 c:\users\cschatz\desktop\hoggle-codeblocks\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1315191360 c:\users\cschatz\desktop\hoggle-codeblocks\private\vector.h
+
+1347927600 c:\users\cschatz\desktop\hoggle-codeblocks\private\vector.cpp
+
+1350761680 source:c:\users\cschatz\desktop\hoggle-codeblocks\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1350761680 c:\users\cschatz\desktop\hoggle-codeblocks\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1350762659 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1350761745 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1329595051 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1350755418 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_db.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+	"vector.h"
+
+1350675167 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1333391876 c:\users\cschatz\desktop\hoggle-codeblocks\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1331791708 source:c:\users\cschatz\desktop\hoggle-codeblocks\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1476230282 source:c:\users\cschatz\desktop\hoggle-codeblocks\main.cpp
+	"lpclib.h"
+	"hgraphics.h"
+
+1348528348 source:c:\users\cschatz\desktop\hoggle-codeblocks\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+
+1346884267 c:\users\cschatz\desktop\hoggle-codeblocks\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1315191410 c:\users\cschatz\desktop\hoggle-codeblocks\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1315191360 c:\users\cschatz\desktop\hoggle-codeblocks\private\stack.h
+
+1315191360 c:\users\cschatz\desktop\hoggle-codeblocks\private\stack.cpp
+
+1346886600 c:\users\cschatz\desktop\hoggle-codeblocks\private\scanner.h
+
+1350685010 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1476230282 f:\codeblocks_projects\cs20_hoggle_pa_assignment\hgraphics.h
+	<string>
+
+1350757840 f:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1346350166 f:\codeblocks_projects\cs20_hoggle_pa_assignment\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1347928012 f:\codeblocks_projects\cs20_hoggle_pa_assignment\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1315191360 f:\codeblocks_projects\cs20_hoggle_pa_assignment\private\vector.h
+
+1347927600 f:\codeblocks_projects\cs20_hoggle_pa_assignment\private\vector.cpp
+
+1350761680 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1350761680 f:\codeblocks_projects\cs20_hoggle_pa_assignment\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1350762660 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1350761746 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1329595052 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1350755418 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_db.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+	"vector.h"
+
+1350675168 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1333391876 f:\codeblocks_projects\cs20_hoggle_pa_assignment\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1331791708 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1477358628 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\main.cpp
+	<vector>
+	<algorithm>
+	<ctime>
+	"lpclib.h"
+	"vector.h"
+	"scanner.h"
+	"lexicon.h"
+	"hgraphics.h"
+
+1348528348 source:f:\codeblocks_projects\cs20_hoggle_pa_assignment\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+
+1346884268 f:\codeblocks_projects\cs20_hoggle_pa_assignment\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1315191410 f:\codeblocks_projects\cs20_hoggle_pa_assignment\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1315191360 f:\codeblocks_projects\cs20_hoggle_pa_assignment\private\stack.h
+
+1315191360 f:\codeblocks_projects\cs20_hoggle_pa_assignment\private\stack.cpp
+
+1346886600 f:\codeblocks_projects\cs20_hoggle_pa_assignment\private\scanner.h
+
+1350685010 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1476230282 g:\codeblocks_projects\cs20_hoggle_pa_assignment\hgraphics.h
+	<string>
+
+1350757840 g:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1346350166 g:\codeblocks_projects\cs20_hoggle_pa_assignment\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1347928012 g:\codeblocks_projects\cs20_hoggle_pa_assignment\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1315191360 g:\codeblocks_projects\cs20_hoggle_pa_assignment\private\vector.h
+
+1347927600 g:\codeblocks_projects\cs20_hoggle_pa_assignment\private\vector.cpp
+
+1350761680 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1350761680 g:\codeblocks_projects\cs20_hoggle_pa_assignment\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1350762660 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1350761746 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1329595052 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1350755418 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_db.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+	"vector.h"
+
+1350675168 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1333391876 g:\codeblocks_projects\cs20_hoggle_pa_assignment\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1331791708 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1477291678 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\main.cpp
+	<vector>
+	<algorithm>
+	<ctime>
+	"lpclib.h"
+	"vector.h"
+	"scanner.h"
+	"lexicon.h"
+	"hgraphics.h"
+
+1346884268 g:\codeblocks_projects\cs20_hoggle_pa_assignment\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1315191410 g:\codeblocks_projects\cs20_hoggle_pa_assignment\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1315191360 g:\codeblocks_projects\cs20_hoggle_pa_assignment\private\stack.h
+
+1315191360 g:\codeblocks_projects\cs20_hoggle_pa_assignment\private\stack.cpp
+
+1346886600 g:\codeblocks_projects\cs20_hoggle_pa_assignment\private\scanner.h
+
+1348528348 source:g:\codeblocks_projects\cs20_hoggle_pa_assignment\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+

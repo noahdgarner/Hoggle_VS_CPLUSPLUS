@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Hoggle" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/HoggleSrc" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="libgdi32.a" />
+				</Linker>
+			</Target>
+			<Target title="Debug">
+				<Option output="bin/Release/HoggleSrc" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="libgdi32.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="bst.h" />
+		<Unit filename="cmpfn.h" />
+		<Unit filename="foreach.h" />
+		<Unit filename="grid.h" />
+		<Unit filename="hgraphics.cpp" />
+		<Unit filename="hgraphics.h" />
+		<Unit filename="lexicon.cpp" />
+		<Unit filename="lexicon.h" />
+		<Unit filename="lpclib.cpp" />
+		<Unit filename="lpclib.h" />
+		<Unit filename="lpclib_console.cpp" />
+		<Unit filename="lpclib_convert.cpp" />
+		<Unit filename="lpclib_db.cpp" />
+		<Unit filename="lpclib_graphics.cpp" />
+		<Unit filename="lpclib_random.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="map.h" />
+		<Unit filename="queue.h" />
+		<Unit filename="scanner.cpp" />
+		<Unit filename="scanner.h" />
+		<Unit filename="set.h" />
+		<Unit filename="stack.h" />
+		<Unit filename="vector.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
