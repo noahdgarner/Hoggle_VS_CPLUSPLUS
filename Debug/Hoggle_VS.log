@@ -1,5 +1,53 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Hoggle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  scanner.cpp
+  vector.cpp
+  stack.cpp
+  set.cpp
+  queue.cpp
+  map.cpp
+  grid.cpp
+  bst.cpp
   main.cpp
 main.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Hoggle_VS.vcxproj -> G:\CodeBlocks_Projects\CS20_Hoggle_PA_assignment\Debug\Hoggle_VS.exe
-  Hoggle_VS.vcxproj -> G:\CodeBlocks_Projects\CS20_Hoggle_PA_assignment\Debug\Hoggle_VS.pdb (Full PDB)
+  lpclib_random.cpp
+  lpclib_graphics.cpp
+lpclib_graphics.cpp(203): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+lpclib_graphics.cpp(205): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+lpclib_graphics.cpp(310): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  lpclib_db.cpp
+  lpclib_convert.cpp
+lpclib_convert.cpp(45): warning C4018: '<': signed/unsigned mismatch
+lpclib_convert.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  lpclib_console.cpp
+  lpclib.cpp
+lpclib.cpp(23): warning C4018: '<': signed/unsigned mismatch
+lpclib.cpp(26): warning C4018: '<': signed/unsigned mismatch
+lpclib.cpp(38): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+lpclib.cpp(64): warning C4101: 'e': unreferenced local variable
+  lexicon.cpp
+  hgraphics.cpp
+hgraphics.cpp(114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(150): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(162): warning C4244: 'argument': conversion from 'double' to 'smallint', possible loss of data
+hgraphics.cpp(165): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(178): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(179): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(180): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(182): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(183): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(224): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(231): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(234): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(244): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(260): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+hgraphics.cpp(339): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(340): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(342): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+hgraphics.cpp(348): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : C:\Users\Noah Garner\Documents\Visual Studio 2015\Projects\Hoggle_VS_CPLUSPLUS\Debug\Hoggle_VS.exe not found or not built by the last incremental link; performing full link
+  Hoggle_VS.vcxproj -> C:\Users\Noah Garner\Documents\Visual Studio 2015\Projects\Hoggle_VS_CPLUSPLUS\Debug\Hoggle_VS.exe
+  Hoggle_VS.vcxproj -> C:\Users\Noah Garner\Documents\Visual Studio 2015\Projects\Hoggle_VS_CPLUSPLUS\Debug\Hoggle_VS.pdb (Full PDB)
