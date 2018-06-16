@@ -43,7 +43,7 @@ int main()
         fin >> line;
         strings.push_back(line);
     }
-    cout << "Click the mouse after the computer's turn to end the program. Thank you!\n";
+    cout << "Click the MOUSE after the computer's turn to end the program. Thank you!\n";
     fin.close();
     DrawBoard();
 
